@@ -1,0 +1,2 @@
+- `todo-be` contains the nodejs/expressjs based API for the todo app.
+- `todo-fe` contains the nextjs based FrontEnd for the todo app.
